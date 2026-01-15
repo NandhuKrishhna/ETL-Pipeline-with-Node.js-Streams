@@ -4,6 +4,7 @@ A high-performance Node.js application for generating large CSV datasets and pro
 
 ## Features
 
+
 - **High-Performance CSV Generation**: Generates large CSV files with configurable sizes.
 - **Manual Data Generation**: Uses lightweight, built-in arrays for random data generation (names, emails, cities, salaries) to keep dependencies minimal.
 - **Configurable Output**: easily adjust the target file size via command line arguments.
